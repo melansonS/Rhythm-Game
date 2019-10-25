@@ -1,0 +1,8 @@
+#game {
+  position: absolute;
+  left: 38%;
+  transform: translate(-50%, 20%);
+}
+body {
+  background-color: black;
+}
